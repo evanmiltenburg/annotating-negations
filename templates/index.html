@@ -1,0 +1,131 @@
+<html>
+<head>
+    <title>Sentence annotator</title>
+    <style>
+    .container {
+      position: relative;
+    }
+    nav.elem {
+      position: absolute;
+      left: 0px;
+      width: 180px;
+      background-color: #F3EFE0;
+    }
+    section {
+      /* position is static by default */
+      margin-left: 200px;
+      background-color: #F3EFE0;
+    }
+    
+    h1 {
+        padding: 10px;
+        color: #CC0000;
+    }
+    
+    h3 {
+        margin-left: 10px;
+        color: #CC0000;
+    }
+    
+    td {
+        vertical-align: top;
+    }
+    
+    table.navtable {
+        margin-left: 10px;
+    }
+    body {
+      background-color: #217C7E;
+      font-family: sans-serif;
+    }
+    
+    a {
+        color: #3399FF;
+    }
+    </style>
+
+<script language="JavaScript">
+function toggle(source) {
+  checkboxes = document.getElementsByName('sentence');
+  for(var i=0, n=checkboxes.length;i<n;i++) {
+    checkboxes[i].checked = source.checked;
+  }
+}
+</script>
+
+<head>
+
+<body>
+<div class="container elem">
+<nav class="elem">
+<a href='/'><h3>Overview</h3></a>
+    
+<table class='navtable'>
+<tr><td><b>Item</b></td><td style="text-align:right"><b>Done</b></td></tr>
+{% for item, uncat, all_sents in nav %}
+<tr><td><a href="/annotate/{{item}}">{{item}}</a></td><td style="text-align:right">{{uncat}}/{{all_sents}}</td></tr>
+{% endfor %}
+</table>
+<p style="margin-left: 10px;">To save, click <a href='/save'>here</a>.</p>
+</nav>
+
+
+<section class="elem">
+    <h1>
+        Let's annotate some sentences!
+    </h1>
+</section>
+
+<section class="elem">
+
+{% if render_form %}
+{% if items|length == 0 %}
+    <p style='padding:5px;'>No search results for query "{{query}}". <a href='/annotate/{{neg}}'>Continue</a></p>
+{% else %}
+    <form id="search" method='post' action=/search>
+    <p style='padding:5px;'>
+    <b>Search</b>: <input type="text" id='textbox' size='20' value='' name="query"><input type='submit' value='Submit' /><br>
+    <input type="hidden" name="neg" value="{{neg}}">
+</p>
+    </form>
+
+
+    <form id='annotation' method='post' action="/annotate/{{neg}}">
+        <p style='padding:5px;'>
+        <b>Category:</b><br>
+        {% for cat in categories %}
+            <input type="radio" name="category" value="{{cat}}">{{cat}}<br>
+        {% endfor %}
+        <input type="radio" name="category" value="OTHER" checked>New category: <input type="text" id='textbox' size='20' value='' name="other"><br>
+        </p>
+        <table>
+            <tr><td><input type="checkbox" onClick="toggle(this)" /></td><td><b>Select all</b></td></tr>
+            
+            {% for sentence in items %}
+                <tr><td><input type="checkbox" name="sentence" value="{{sentence}}"></td><td>{{sentence}}</td></tr>
+            {% endfor %}
+        
+        
+        </table>
+    <span style='padding:5px;'>
+    <input type='submit' value='Submit' />
+    </span>
+    </form>
+{% endif %}
+{% endif %}
+{% if not render_form %}
+    <p style='padding:5px;'>
+    {% if saved %}
+    Saved the annotation data!
+    {% elif done %}
+    You're done{% if neg %} with "{{neg}}"{% endif %}.
+    {% else %}
+    Please select an item from the menu on the left.
+    {% endif %}
+    </p>
+{% endif %}
+</section>
+
+</div>
+</body>
+</html>
