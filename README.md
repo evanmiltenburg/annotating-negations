@@ -43,3 +43,5 @@ the contrast sentences to `contrast.txt`.
 * Modify line 10 in `annotator.py` by replacing `captions_flickr30k.txt` with `contrast.txt`.
 The line should now look like this: `with open('contrast.txt') as f:`.
 * Annotate the sentences again, but this time ignoring the Contrast category.
+
+**WARNING** Once you save, the `annotations.tsv` file will get overwritten. Make sure that the script successfully copied your old data to `first_round.tsv` or that you have backed up the TSV file some other way.
