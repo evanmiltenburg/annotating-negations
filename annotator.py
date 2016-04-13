@@ -38,8 +38,7 @@ for neg, sents in d.items():
     categorized[neg] = defaultdict(list)
     categorized[neg]['uncategorized'] = sents
 
-categories = {'Contrast',
-              'Salient absence',
+categories = {'Salient absence',
               'Negation of action/behavior',
               'Negation of property',
               'Negation of attitude',
