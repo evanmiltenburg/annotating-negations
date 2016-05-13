@@ -1,0 +1,367 @@
+Category	Neg	Sent
+	Roser	Outside the frame
+	Emiel	Not a description/Meta
+
+	not	a boy raises his arms amongst a crowd of people who are not in focus .
+
+	Roser	Negation of attitude
+	Emiel	Not a description/Meta
+
+	n't	someone who does n't care about the earth was here .
+	n't	this dog does n't seem to appreciate how awesome his hat is .
+
+	Roser	Negation of action/behavior
+	Emiel	Not a description/Meta
+
+	n't	that hotdog just was n't going down right , was it the drinking or the burnt dog ?
+	not	my two friends were working on our roof today and they just did not know where to start .
+	not	depressed man who does not know what to do .
+	not	a woman does not waste the nice day by reading on the beach .
+	without	what 's a trip to the park without visiting the snack bar ?
+	n't	lady does n't have time to speak to a real person .
+
+	Roser	Negation of property
+	Emiel	Not a description/Meta
+
+	n't	that does n't look like mud on the horse rider .
+	n't	roofer going to get the rest of his tools after realizing the chainsaw is n't the right tool for the job .
+
+	Roser	Quotes and idioms
+	Emiel	Not a description/Meta
+
+	nothing	there 's nothing in the world like taking my kids out play and being a good dad .
+	nothing	there 's nothing like a hot day at the races and smelling the rubber burn
+	no	variety is the spice of life no matter what the culture may be .
+	no	it seems like no matter when i read this , the news is always the same .
+	nothing	"something seems to be better than nothing as a young adult male plays a violin near the entrance of a store with his violin case open ready to accept the "" tips "" of his fans ."
+
+	Roser	False positive
+	Emiel	Not a description/Meta
+
+	fail	girl gets all her fingers cutoff trying to catch a frisbee , fail !
+
+	Roser	Other
+	Emiel	Not a description/Meta
+
+	not	this bathtub is not staying in the old house .
+	n't	why are n't these girls in the kitchen instead of playing with toys ?
+	n't	a cloudy day in a city does n't keep away crowds of men and women on the sidewalks .
+	not	this dude is asian , and works on computers all the time , not stereotyping .
+	not	a lady thinking that she should not have bought such a hideous purse .
+	not	my date is not coming on time .
+	without	some elements are too small to visualize without a microscope .
+	n't	board games are fun , unless you do n't get laid if you win .
+	not	smoking is not good for health , it harms your lungs .
+	no	the dog with all the comforts of home and yet still has no home .
+	n't	run , run careful do n't hit the van .
+
+	Roser	Not a description/Meta
+	Emiel	Outside the frame
+
+	not	a woman whose head is not visible walks in front of a bus with an advertisement on its side .
+	not	three young , male members of a band , one of whose face is not shown , one who is playing a bass guitar , and one who is smiling .
+	not	two young black men play basketball , number ten wears a gsu jersey with white , and the other player wears light blue and yellow , but his number is not pictured , players line the stands , as the coach screams .
+	not	a foreign person walks with a material down a walkway heading through a residential area of a foreign country that is not recognizable through the photo .
+	not	three boys on a basketball court , wearing team uniforms , are attempting to reach a basketball which is not photographed but appears to be descending just out of their reach .
+
+	Roser	Salient absence
+	Emiel	Outside the frame
+
+	not	people playing pool , one is a man wearing a blue shirt and the others are women but their heads are not within the camera shot .
+	without	there are 5 people on a stage without their face showing behind a red curtain
+	no	no faces are shown in this picutre of jeans and sweatshirts .
+
+	Roser	Negation of action/behavior
+	Emiel	Negation of attitude
+
+	n't	tourist wife upset with husband who ca n't makeup his mind .
+	not	a stout gentleman does not know how to use his umbrella .
+
+	Roser	Quotes and idioms
+	Emiel	Negation of attitude
+
+	n't	woman who just took pizza out of the oven and ca n't wait to eat it .
+
+	Roser	Other
+	Emiel	Negation of attitude
+
+	not	onlookers are praying that the cowboy does not fall off the bull in the rodeo .
+
+	Roser	Other
+	Emiel	(Preventing) future events
+
+	no	the person looks cautiously into traffic to be sure no car is coming .
+
+	Roser	Negation of attitude
+	Emiel	Negation of action/behavior
+
+	n't	a man in a pinstriped suit walks down the street and does n't notice the quirky poster on his left .
+	not	two men are showing a fighting move while one man appears not to be enjoying it too much .
+	not	a blond girl sits at a bar next to a few other men who are not paying attention to her and she is sad .
+	n't	three young people stand on a stage outside with guitars over their shoulders in front of a crowd , with one person in the crowd also holding a guitar , but many of the people in the crowd do n't seem to be too interested in what is happening on stage .
+	not	a woman teaching a young girl not to be afraid of puppies .
+	no	a brown dog pays no attention to a young woman dressed in black passing nearby .
+	n't	a woman who appears to be a student , laughs at something that her male companion does n't seem to find amusing .
+	not	young couple , the woman dressed in a black jacket , striped scarf and wearing blond pigtails seem to be engaged in a conversation , with the man not looking a little skeptical .
+	no	an elderly looking man in europe is standing on top of a garbage can near the crosswalk as passersby take no notice .
+	not	a man and women are holding hands and dancing with many people in the background but they are not paying attention to them .
+
+	Roser	(Preventing) future events
+	Emiel	Negation of action/behavior
+
+	not	a person trying desperately not to be photographed by putting their sweater over their head as they compute .
+	not	the cowboy in blue is trying not to be thrown off of the horse .
+
+	Roser	Salient absence
+	Emiel	Negation of action/behavior
+
+	not	four guys three wearing hats one not are jumping at the top of a staircase .
+	miss	four boys look at the basketball hoop , which is missing the netting .
+	miss	a man in a blue and black jersey and missing one foot hits a volleyball from a sitting position .
+	no	a boy rides a bicycle with no hands and a sign on his shirt in the shape of a lemon that says $ 1 .
+
+	Roser	False positive
+	Emiel	Negation of action/behavior
+
+	miss	a cricket player misses the pitch .
+	miss	a brown dog is trying to catch a flying disk but missed it .
+	miss	the batter missed the ball .
+	miss	a player swinging and missing a baseball .
+	miss	man playing for a baseball team with a blue protective hat and baseball uniform , playing for south carolina , is swinging the bat and missing the ball .
+	miss	missed that point by a landslide .
+	miss	a white guy in the middle of missing another layup .
+	miss	an umpire and a catcher diligently wait for the batter 's next missed ball .
+	miss	man with number eleven uniform making a dive and missing the ball during a baseball game .
+	miss	hockey goalie dressed in black with vaughn printed on pad , appearing to have missed the puck .
+	miss	a girl hitting a softball but she missed the ball .
+	miss	two female volleyball players on the court with the one in the front falling because she missed the ball .
+	miss	the goalie of a ice hockey team misses the puck .
+	fail	dark-skinned individual having a failed high jump attempt .
+	miss	a man swinging a cricket bat and missing the ball .
+	miss	men playing volleyball , with one player missing the ball but hands still in the air .
+	miss	a batter playing cricket missed the ball and the person behind him is catching it .
+	miss	a male tennis player , wearing a white headband , misses an in-bounds ball .
+	miss	a cowboy is on the ground in a rodeo ring , holding onto his horse by a rope , just missing a calf .
+	miss	a cricket player swings his bat , but misses .
+	miss	two men playing soccer , and one man just missed the goal .
+	miss	a softball player swinging at a softball and missing it .
+	fail	after almost landing his ball in the water , a golfer fails at his recovery shot .
+	miss	a female batter misses a yellow ball while another player practices behind her .
+	miss	a girl closes her eyes as she swings the bat and misses the softball .
+	miss	a major league baseball player with the number 22 swings and misses .
+	miss	the little kid just missed a soccer kick for the goal
+	miss	several hockey players are at the end zone as the goalie misses the puck which slid into the net .
+
+	Roser	Other
+	Emiel	Negation of action/behavior
+
+	no	they are here to ensure no one crosses the barriers .
+
+	Roser	Negation of attitude
+	Emiel	Negation of property
+
+	n't	these two men playing soccer show they are n't afraid to get a little dirty in the name of sports .
+	not	two people looking at each other , a third person is not attentive .
+	not	fat man climbs a tree , but his fat girl friend and dumb dogs wearing sweaters are not impressed .
+	not	a woman on a bus that does not look very happy and the bus seems crowded .
+	not	during the election party not all the guest attending are happy .
+	n't	people outside , this young woman does n't look too happy .
+
+	Roser	Negation of action/behavior
+	Emiel	Negation of property
+
+	not	three smiling people and two others not facing the camera standing outside of a shack at night .
+	not	a small white car is on the train tracks and may or may not have been hit by the train behind it .
+
+	Roser	Salient absence
+	Emiel	Negation of property
+
+	not	a man in a penguin suit runs with a man , not in a penguin suit .
+	n't	a woman playing an electric guitar that does n't have any strings .
+	not	two men in underwater breathing suits are underwater with another person not in a breathing suit .
+	n't	two boys and two girls walk away from the camera , down a trail on the side of a hill wearing backpacks and jackets , though one girl does n't have a backpack on her back .
+	n't	there are two men , one wearing a shirt , one is n't , both wearing red pants and holding onto a ladder with both arms and their legs extended out into the air .
+	not	a group of people are either standing or sitting , some are wearing hats and scarves , while some are not .
+
+	Roser	Other
+	Emiel	Negation of property
+
+	n't	a woman looks to have jumped on top of somebody holding a beer , the bar does n't seem too far behind .
+	not	park ranger dave cites a car for not having a license plate in the proper place .
+	neither	two guys are in he air with neither foot touching the ground .
+	no	the bagel shop is no longer in business .
+	not	a man and a woman sit on a bus , but not together .
+	not	a surfer balances on a surfboard while another surfer is not on his board in the background .
+	no	a man does fake rock climbing on a park 's rock climbing rock that is no more than eleven feet tall .
+	not	a small dog leaping , but not very high .
+	not	a man in glasses completes a task beside a monitor that is not on .
+	not	eight young girls in a school gym are on mats , wearing gym clothes and practicing cheerleader moves while in the background are the backs of two more young girls , not on the mats , who are also practicing moves .
+	not	a man with a cap and jeans is washing the window not on ground level .
+	not	a man at the rodeo is riding his horse while upside down and not on the saddle
+	not	a person wearing clothes that would not typically be found in us baseball is about to hit an incoming ball .
+	not	there are four boys playing soccer , but not all of them are on the same team , the closest boy is on the red team wearing white trunks and a white shirt while the other three boys are on the blue team and wearing blue trunks and blue shirts .
+	not	several people in white clothes and red handkerchiefs , and one man who is not dressed like the others , congregate in a wide alley .
+
+	Roser	Negation of attitude
+	Emiel	Salient absence
+
+	no	a man with a bowtie looks at the camera with no expression .
+	no	a woman with scarves in her head sits with 3 others staring at the camera with no expression .
+	no	two little girls looking into the camera with no emotion on there faces .
+	no	two little girls with no facial expressions stand close to each other in a city .
+
+	Roser	Negation of action/behavior
+	Emiel	Salient absence
+
+	n't	this man is fishing around a bunch of boats , he has n't caught one , yet .
+
+	Roser	Negation of property
+	Emiel	Salient absence
+
+	lack	five people standing on a stage , getting ready to perform , who are unrecognizable due to the lack of lighting .
+	not	woman with not a whole lot of clothes on playing on phone
+	lack	an old couple walks along a street that lacks color .
+	no	a brown furry dog is biting a no hair brown dog .
+	not	a woman wears her hair down and does not have her head covered like those around her .
+	no	person with no hair and makeup sits next to others in front of portable toilets .
+
+	Roser	False positive
+	Emiel	Salient absence
+
+	nothing	two ladies are wearing nothing except body paint and riding on bicycles in a street fair .
+	nothing	a man in nothing but a pair of shorts and green crocs stands on a bridge covered with snow .
+	miss	a chef standing behind a large pan of pepperoni pizza with one-fourths of the pizza missing .
+	nothing	a man wearing nothing but a cloth around his waist is standing , facing a crowd with a bright red substance on his back .
+	nothing	an adult surrounded with nothing but sand leaping into the air .
+	nothing	two very friends lost in the middle of the desert with nothing but a portable black mattress and a book with maps .
+	nothing	a man is standing on a dock with nothing on but a towel around his waist .
+	nothing	a man wearing bright orange construction vest washing down a train with nothing but a long handled scrubber and a wash bucket
+	nothing	a child in almost nothing but blue flip-flops is taking a walk .
+
+	Roser	Other
+	Emiel	Salient absence
+
+	no	a family with no home trying to make some type of shelter from sticks and tree limbs in a wooded area .
+	nothing	performing an illusion in a mall while people watch , completely clothed head-to-toe , one seated man elevates another seated man directly above him with nothing but a vertical pole between them .
+	no	no protection football guy getting tackled
+	nothing	there is a man in shorts wading out waist deep in the water with nothing else in site .
+
+	Roser	Not a description/Meta
+	Emiel	Quotes and idioms
+
+	not	a dark-skinned boy with blue shorts , a black tank top , and sandals is standing on the walk or do not walk street sign .
+	no	a man is walking by a pole with a no pets sign .
+	n't	"a woman in a blue winter coat and a person in a black winter vest are crossing the street when the "" do n't walk "" sign is lit ."
+	n't	"a man posing with a "" november ca n't come soon enough "" poster ."
+	n't	sombody has stuck the face of groucho marx on a walk do n't walk button .
+	no	three people on skis are standing behind a no skiing sign .
+
+	Roser	Negation of attitude
+	Emiel	Quotes and idioms
+
+	not	a middle-aged man with a backpack playfully pretends to box with younger child who does not look phased .
+
+	Roser	Negation of action/behavior
+	Emiel	Quotes and idioms
+
+	not	during a race , the blue biker cleared a jump safely , while another biker appears to not be doing as well as the biker jumping .
+
+	Roser	Salient absence
+	Emiel	Quotes and idioms
+
+	no	two skateboarders walking down a street filled with no parking sings .
+	no	a woman with a red no sleeve shirt with black shorts is running .
+	no	a man with a white no sleeve shirt and red shorts about to hit a volleyball .
+	no	the man is wearing a no sleeve shirt and blue jeans on a graffiti wall .
+
+	Roser	False positive
+	Emiel	Quotes and idioms
+
+	no	three young boys playing hear no evil , speak no evil , see no evil
+	miss	"a boy and girl ride in the front of a small train labeled "" mississippi train "" ."
+	not	the police are putting up a do not cross line , while many spectators watch .
+	miss	a newsstand so packed with magazines , candy and coke-a-cola products that the smiling woman working behind the counter is easy to miss .
+	no	a little girl in a walker that looks like she may be up to no good .
+
+	Roser	Other
+	Emiel	Quotes and idioms
+
+	not	one boy running while carrying a football with four other boys not far behind in a game of flag football .
+	not	a man in a blue shirt rides a skateboard along a railing not far from a brick wall .
+	not	two men sit together and a woman is not too far from them under a bridge as all three watch the water in front of them .
+	not	a baseball player from the tigers is sliding onto a base , while the umpire is running to see whether or not the player is safe .
+	not	three people with backpacks walk up a road in a forest , not far behind one white and one black dog .
+	not	a boy is sitting on a small boat with two flags flying from it not far from the coast with some trees in the background .
+	not	a woman in a yellow shirts walks through a park with her dog not far behind .
+	not	a man is fishing off a beach into a large body of water while a young boy carries a net not too far away .
+	not	a woman wearing black leggings and a black tank top is running in a race while bicyclists follow not far behind .
+	not	a man in football gear is running with the football with an opposing team member not far behind him going in for a tackle .
+	not	a bicycle rider flies over a hill while a competitor is not far behind .
+	not	a dirt bike racer jumping off a hill with another racer not far behind .
+	not	shirt-wearing surfer meets a low wave head on , not far from fishing boat in background .
+	n't	why , if it is n't bilbo baggins , playing the accordion .
+	not	middle-aged women ( maroon shirt ) holding child ( white shirt ) and a young women ( green shirt ) in the not too far distance .
+	no	a man with curly hair and glasses tries to tug a large rope on a boat to no avail .
+	not	a woman in her early fifties walks by herself in the subway , another woman is not far behind .
+
+	Roser	Salient absence
+	Emiel	False positive
+
+	no	a yellow bus with no 3113 on the bus stop and people hopping in .
+
+	Roser	Other
+	Emiel	False positive
+
+	not	a male guitar player is vigorously singing a not to a song in a poorly lit room .
+
+	Roser	Not a description/Meta
+	Emiel	Other
+
+	not	if it were not for the top of some man 's head , one would see a group of boy scouts sitting in front of a barricade surrounding a crowd of people holding english flags in birmingham .
+	n't	there is n't a lot of action just a guy at a hotdog stand on normal day .
+
+	Roser	Negation of attitude
+	Emiel	Other
+
+	n't	people try to make a point about how big companies do n't care about people and only car about money .
+	not	not having such a good day .
+
+	Roser	Negation of action/behavior
+	Emiel	Other
+
+	never	individual trying a task never done before but watching his image in the water below him .
+	not	the little boy in the blue t-shirt is smiling under the blue umbrella even though it is not raining .
+	not	two women who did not aim the camera at their faces .
+	without	a man lounges in his room without eating for days .
+	not	new sport is being played to show appreciation to the kids who can not walk .
+	not	a young asian girl is wearing a pink dress and holding an umbrella even though it is not raining .
+	n't	the men decided it would be a nice day to take the boat out for a ride and pose together because they do n't see each other often .
+	without	a waiter waiting for a bus to take her home after long day without getting enough customers at the restaurant .
+	n't	a little toddler trying to look through a scope but ca n't reach it .
+
+	Roser	Negation of property
+	Emiel	Other
+
+	n't	the young boys are looking for apples that do n't exist .
+	not	workers making dangerous icy steps not so dangerous .
+	n't	a middle-aged man 's shaving his beard in a room with white walls which does n't look like a bathroom .
+	not	a lacrosse player is looking at an object in the sky that is not the ball .
+	not	a bro is skating on a rail in a skate park with not much around except green grass and concrete .
+
+	Roser	Salient absence
+	Emiel	Other
+
+	miss	man smoking a cigarette in a subway station near a missing poster .
+
+	Roser	False positive
+	Emiel	Other
+
+	miss	the two ladies are missing each other .
+	miss	a man smokes next to a pillar with a sign for a missing woman taped to it .
+	miss	a man in a down jacket leans against a pillar with a missing persons sign while smoking a cigarette .
+	fail	young karate student stares into the mirror at his failure in life .
+	miss	three college students studied quietly together missing out on a bright sunny day .
+	miss	families trying to check on the board for the names of their loved ones who went missing after an earthquake .
+	miss	volunteers are in this picture with their dog searching for a missing girls last known playing in the woods .
+	miss	a bald mad smokes a cigarette beside a pillar adorned with a poster of a missing young woman .
+
