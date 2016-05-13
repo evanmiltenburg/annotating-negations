@@ -45,6 +45,8 @@ categories = {'Salient absence',
               '(Preventing) future events',
               'Outside the frame',
               'Quotes and idioms',
+              'False positive',
+              'Not a description/Meta',
               'Other'}
 
 def negs():
