@@ -67,7 +67,7 @@ with open('final_annotations.tsv', 'w') as f:
     writer.writerow(['Negation type','Category','Sentence'])
     for pair, cat in first.items():
         neg, sent = pair
-        writer.writerow([neg, cat, pair])
+        writer.writerow([neg, cat, sent])
 
 ################################################################################
 # Category frequency
