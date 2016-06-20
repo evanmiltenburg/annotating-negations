@@ -15,8 +15,8 @@ please cite our paper:
 ```
 
 ## The raw data
-The raw data in this folder is in the Flickr30k folder. These files are taken from
-the Flickr30K entities dataset. The relevant citations are:
+We annotated image descriptions from the Flickr30K dataset. The relevant files can
+be found in the Flickr30k folder. The relevant citations for this data are:
 
 * [Flickr30K] Peter Young, Alice Lai, Micah Hodosh and Julia Hockenmaier. From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions, Transactions of the Association for Computational Linguistics, 2(Feb):67-78, 2014.
 * [Flickr30K Entities] Bryan A. Plummer, Liwei Wang, Chris M. Cervantes, Juan C. Caicedo, Julia Hockenmaier, and Svetlana Lazebnik, Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models, ICCV, 2015.
