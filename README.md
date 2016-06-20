@@ -10,6 +10,7 @@ please cite our paper:
 @inproceedings{miltenburg2016pragmatic,
 	Author = {Emiel van Miltenburg and Roser Morante and Desmond Elliott},
 	Booktitle = {Proceedings of the 5$^{th}$ Workshop on Vision and Language},
+	Publisher = {ACL},
 	Title = {Pragmatic factors in image description: the case of negations},
 	Year = {2016}}
 ```
