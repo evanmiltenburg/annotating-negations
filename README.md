@@ -3,9 +3,30 @@
 This repository contains the necessary tools and data to annotate sentences
 containing negation in the Flickr30k corpus. The annotation script is written in
 Python, and makes use of Flask (a web framework) so that you can annotate the data
-in your own browser.
+in your own browser. If you use our annotation tool, or any of the annotated data,
+please cite our paper:
 
-## Requirements
+```
+@inproceedings{miltenburg2016pragmatic,
+	Author = {Emiel van Miltenburg and Roser Morante and Desmond Elliott},
+	Booktitle = {Proceedings of the 5$^{th}$ Workshop on Vision and Language},
+	Title = {Pragmatic factors in image description: the case of negations},
+	Year = {2016}}
+```
+
+## The raw data
+The raw data in this folder is in the Flickr30k folder. These files are taken from
+the Flickr30K entities dataset. The relevant citations are:
+
+* [Flickr30K] Peter Young, Alice Lai, Micah Hodosh and Julia Hockenmaier. From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions, Transactions of the Association for Computational Linguistics, 2(Feb):67-78, 2014.
+* [Flickr30K Entities] Bryan A. Plummer, Liwei Wang, Chris M. Cervantes, Juan C. Caicedo, Julia Hockenmaier, and Svetlana Lazebnik, Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models, ICCV, 2015.
+
+## Processing the data
+We processed the data using `negation_finder_flickr30k.py`, which creates the `captions_flickr30k.txt` file.
+If you want to do any annotation on the same sentences, but require the document IDs,
+please see `flickr30K_negations.tsv`, which is produced using `./negation_tsv_maker.py`.
+
+## Annotation tool requirements
 * Python 2.7 or 3.5 (I haven't tested on any others, but they should work)
 * Flask (use `pip install flask` or `conda install flask` to install)
 
