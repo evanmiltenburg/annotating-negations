@@ -4,7 +4,7 @@ This repository contains the necessary tools and data to annotate sentences
 containing negation in the Flickr30k corpus. The annotation script is written in
 Python, and makes use of Flask (a web framework) so that you can annotate the data
 in your own browser. If you use our annotation tool, or any of the annotated data,
-please cite our paper:
+please cite our [paper](./papers/pragmatic-factors-image.pdf):
 
 ```
 @inproceedings{miltenburg2016pragmatic,
@@ -32,6 +32,8 @@ please see `flickr30K_negations.tsv`, which is produced using `./negation_tsv_ma
 * Flask (use `pip install flask` or `conda install flask` to install)
 
 ## Annotation steps
+
+First, read the [guidelines](guidelines/guidelines-annotate-negations-1.0.pdf).
 
 1. `cd` to the environment containing `annotator.py`
 2. Use `python annotator.py` to start the script. By default this will start hosting
