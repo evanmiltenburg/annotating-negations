@@ -58,7 +58,7 @@ for image_id, doc in image_captions_dict.items():
 print('Sentence tokens:', len(all_negations))
 print('Sentence types:', len(set(all_negations)))
 
-print("Percentage:", (len(all_negations)/float(len(image_captions_dict.items()))) * 100)
+print("Percentage:", (len(all_negations)/float(len(image_captions_dict)*5)) * 100)
 
 print('Number of descriptions with negations per image:')
 c = Counter(counts)
