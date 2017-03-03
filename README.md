@@ -7,12 +7,17 @@ in your own browser. If you use our annotation tool, or any of the annotated dat
 please cite our [paper](./papers/pragmatic-factors-image.pdf):
 
 ```
-@inproceedings{miltenburg2016pragmatic,
-	Author = {Emiel van Miltenburg and Roser Morante and Desmond Elliott},
-	Booktitle = {Proceedings of the 5$^{th}$ Workshop on Vision and Language},
-	Publisher = {ACL},
-	Title = {Pragmatic factors in image description: the case of negations},
-	Year = {2016}}
+@InProceedings{vanmiltenburg-morante-elliott:2016:VL16,
+  author    = {van Miltenburg, Emiel  and  Morante, Roser  and  Elliott, Desmond},
+  title     = {Pragmatic Factors in Image Description: The Case of Negations},
+  booktitle = {Proceedings of the 5th Workshop on Vision and Language},
+  month     = {August},
+  year      = {2016},
+  address   = {Berlin, Germany},
+  publisher = {Association for Computational Linguistics},
+  pages     = {54--59},
+  url       = {http://anthology.aclweb.org/W16-3207}
+}
 ```
 
 ## The raw data
